@@ -1,0 +1,7 @@
+npm i express cors dotenv nodemon jsonwebtoken mongoose bcryptjs nodemailer cookie-parser
+
+add   "type":"module", in package,json
+add "scripts": {
+    "start": "node server.js",
+    "server": "nodemon"
+  },
